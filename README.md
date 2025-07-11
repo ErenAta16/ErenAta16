@@ -212,15 +212,7 @@ Features:
 
 ---
 
-## 🗣️ Languages
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🇹🇷_Turkish-Native-E30A17?style=for-the-badge" alt="Turkish">
-  <img src="https://img.shields.io/badge/🇬🇧_English-Fluent-0052CC?style=for-the-badge" alt="English">
-  <img src="https://img.shields.io/badge/🇩🇪_German-Basic-000000?style=for-the-badge" alt="German">
-</div>
-
----
 
 ## 📫 Let's Connect!
 
