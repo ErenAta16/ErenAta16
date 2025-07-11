@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ErenAta16&theme=gruvbox_light&hide_border=false" alt="GitHub Streak Stats" width="100%"/>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=ErenAta16&theme=gruvbox_light&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" width="100%"/>
 </div>
 
 ## 🐍 GitHub Commit Yılanı
@@ -39,6 +39,12 @@
 <div align="center">
   <img src="https://github.com/ErenAta16/ErenAta16/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
 </div>
+
+<div align="center">
+  <img src="https://github.com/ErenAta16/ErenAta16/blob/output/github-contribution-grid-snake.gif" alt="GitHub Contribution Snake GIF" width="100%"/>
+</div>
+
+> **Not**: Yılan animasyonu için GitHub Actions workflow'unu çalıştırmanız gerekiyor. Actions sekmesinden "Generate Snake" workflow'unu manuel olarak çalıştırın.
 
 ---
 
