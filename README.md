@@ -37,11 +37,11 @@
 ## 🐍 GitHub Commit Yılanı
 
 <div align="center">
-  <img src="https://github.com/ErenAta16/ErenAta16/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
+  <img src="https://github.com/ErenAta16/ErenAta16/blob/main/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://github.com/ErenAta16/ErenAta16/blob/output/github-contribution-grid-snake.gif" alt="GitHub Contribution Snake GIF" width="100%"/>
+  <img src="https://github.com/ErenAta16/ErenAta16/blob/main/output/github-contribution-grid-snake.gif" alt="GitHub Contribution Snake GIF" width="100%"/>
 </div>
 
 > **Not**: Yılan animasyonu için GitHub Actions workflow'unu çalıştırmanız gerekiyor. Actions sekmesinden "Generate Snake" workflow'unu manuel olarak çalıştırın.
