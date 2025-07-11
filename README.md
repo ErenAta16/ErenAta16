@@ -143,7 +143,7 @@ Features:
 ## 🛠️ Technical Excellence
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pytorch,huggingface,pandas,matplotlib,flask,aws&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pytorch,pandas,matplotlib,flask,aws&theme=dark" alt="Tech Stack Icons" />
 </div>
 
 <div align="center">
