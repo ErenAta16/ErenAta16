@@ -21,10 +21,16 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake-dark.svg
           gif_out_path: dist/github-contribution-grid-snake.gif
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          destination_dir: output
-          force_orphan: true
+      - name: Create output directory
+        run: mkdir -p output
+
+      - name: Copy files
+        run: cp dist/* output/
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output/
+          git commit -m "Update snake animation" || exit 0
+          git push 
