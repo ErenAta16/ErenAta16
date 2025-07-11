@@ -16,9 +16,8 @@
 <br>
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/ErenAta16"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/eren-ata-3287991a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:erena6466@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
 ---
@@ -224,16 +223,12 @@ Features:
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/📧-your.email@example.com-D14836?style=for-the-badge" alt="Email"><br>
-        <a href="mailto:your.email@example.com">Email Me</a>
+        <img src="https://img.shields.io/badge/📧-erena6466@gmail.com-D14836?style=for-the-badge" alt="Email"><br>
+        <a href="mailto:erena6466@gmail.com">Email Me</a>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/💼-LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn"><br>
-        <a href="https://linkedin.com/in/your-profile">Connect on LinkedIn</a>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🐙-GitHub-100000?style=for-the-badge" alt="GitHub"><br>
-        <a href="https://github.com/ErenAta16">Visit GitHub</a>
+        <a href="https://www.linkedin.com/in/eren-ata-3287991a7/">Connect on LinkedIn</a>
       </td>
     </tr>
   </table>
