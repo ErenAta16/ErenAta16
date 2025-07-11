@@ -7,9 +7,9 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🧠_AI_Engineer-Expert-FFD700?style=for-the-badge" alt="AI Engineer">
-  <img src="https://img.shields.io/badge/🚀_Experience-3+_Years-00C853?style=for-the-badge" alt="Experience">
-  <img src="https://img.shields.io/badge/🌍_Languages-3-2196F3?style=for-the-badge" alt="Languages">
+  <img src="https://img.shields.io/badge/🖼️_Computer_Vision-Expert-FFD700?style=for-the-badge" alt="Computer Vision">
+  <img src="https://img.shields.io/badge/📊_Data_Analyst-Specialist-00C853?style=for-the-badge" alt="Data Analyst">
+  <img src="https://img.shields.io/badge/🤖_LLM_Developer-Advanced-2196F3?style=for-the-badge" alt="LLM Developer">
   <img src="https://img.shields.io/badge/📍_Location-Turkey-E91E63?style=for-the-badge" alt="Location">
 </div>
 
@@ -27,37 +27,40 @@
 
 <img align="right" alt="AI Brain Animation" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-### 🚀 **Passionate AI & Machine Learning Engineer**
+### 🚀 **Passionate Computer Vision & Data Analyst**
 
-I'm a **Results-driven AI Engineer** with 3+ years of ML/DL experience, specializing in **Computer Vision, NLP, Deep Learning, and Data Science**. 
+I'm a **Results-driven Data Analyst** with 3+ years of experience, specializing in **Computer Vision, Data Analysis, LLM Development, and Machine Learning**. 
 
-#### 💡 **Key Expertise: AI & Machine Learning**
+#### 💡 **Key Expertise: Computer Vision & Data Analysis**
 
-As an **AI Engineer**, I focus on developing innovative solutions:
+As a **Computer Vision Specialist & Data Analyst**, I focus on developing innovative solutions:
 
 <div align="left">
   
 ```python
-class AIEngineer:
+class ComputerVisionAnalyst:
     def __init__(self):
-        self.specialization = "Machine Learning & AI"
+        self.specialization = "Computer Vision & Data Analysis"
         self.experience = "3+ years"
         self.languages = ["Python", "C#", "JavaScript"]
-        self.frameworks = ["TensorFlow", "PyTorch", "OpenCV"]
-        self.passion = "Continuous Learning & Innovation"
+        self.frameworks = ["OpenCV", "TensorFlow", "PyTorch", "HuggingFace"]
+        self.passion = "Visual Intelligence & Data Insights"
     
-    def transform_ideas(self):
-        return "Turning data into intelligent solutions"
+    def analyze_visual_data(self):
+        return "Extracting insights from images and data"
+    
+    def develop_llm_models(self):
+        return "Building intelligent language models"
 ```
 
 </div>
 
 #### 🏆 **Core Skills**
-- 🤖 **Machine Learning** - Advanced algorithms and models
-- 📊 **Data Science** - Comprehensive data analysis
-- 🖼️ **Computer Vision** - Image processing and analysis
-- 🔤 **NLP** - Natural Language Processing
-- ⚡ **Real-time Systems** - High-performance applications
+- 🖼️ **Computer Vision** - Image processing and object detection
+- 📊 **Data Analysis** - Statistical analysis and visualization
+- 🤖 **LLM Development** - Large Language Model development
+- 🔍 **Pattern Recognition** - Advanced image and data pattern analysis
+- ⚡ **Real-time Processing** - High-performance visual data processing
 
 ---
 
@@ -67,25 +70,25 @@ class AIEngineer:
 <tr>
 <td width="60%">
 
-### 🏢 **AI & Machine Learning Engineer**
+### 🏢 **Computer Vision & Data Analyst**
 *Turkey | 2021 - Present*
 
-Building intelligent systems and solutions:
-- 🤖 **Machine Learning Models** - Advanced AI algorithms
-- 📊 **Data Analysis** - Comprehensive data insights
-- 🖼️ **Computer Vision** - Image and video processing
-- 🔤 **NLP Projects** - Natural language understanding
+Building intelligent visual and data solutions:
+- 🖼️ **Computer Vision Systems** - Image processing and object detection
+- 📊 **Data Analysis & Visualization** - Statistical analysis and insights
+- 🤖 **LLM Model Development** - Large Language Model training and fine-tuning
+- 🔍 **Pattern Recognition** - Advanced image and data pattern analysis
 
 </td>
 <td width="40%">
 
-### ⚡ **Python Developer**
+### ⚡ **LLM Developer & Researcher**
 *Freelance | 2020 - Present*
 
-- Full-stack Python development
-- API development and integration
-- Database design and optimization
-- Cloud deployment and DevOps
+- Large Language Model development and fine-tuning
+- HuggingFace Transformers implementation
+- Natural Language Processing projects
+- AI model optimization and deployment
 
 </td>
 </tr>
@@ -96,41 +99,43 @@ Building intelligent systems and solutions:
 ## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🤖_AI_Projects-Active-FF6B6B?style=for-the-badge" alt="AI Projects">
-  <img src="https://img.shields.io/badge/📊_Data_Science-Expert-4CAF50?style=for-the-badge" alt="Data Science">
-  <img src="https://img.shields.io/badge/🖼️_Computer_Vision-Specialist-2196F3?style=for-the-badge" alt="Computer Vision">
+  <img src="https://img.shields.io/badge/🖼️_Computer_Vision-Active-FF6B6B?style=for-the-badge" alt="Computer Vision">
+  <img src="https://img.shields.io/badge/📊_Data_Analysis-Expert-4CAF50?style=for-the-badge" alt="Data Analysis">
+  <img src="https://img.shields.io/badge/🤖_LLM_Development-Specialist-2196F3?style=for-the-badge" alt="LLM Development">
 </div>
 
-### 🔬 **Machine Learning & AI** (2021 - Present)
-```yaml
-Technology: Python, TensorFlow, PyTorch, Scikit-learn
-Features:
-  - Advanced ML Algorithms: Classification, Regression, Clustering
-  - Deep Learning: Neural Networks, CNN, RNN
-  - Computer Vision: Image Processing, Object Detection
-  - NLP: Text Analysis, Sentiment Analysis
-  - Real-time Processing: High-performance AI systems
-Impact: Developing intelligent solutions for various industries
-```
-
-### 📊 **Data Science & Analytics** (2020 - Present)
-```yaml
-Technology: Python, Pandas, NumPy, Matplotlib, Seaborn
-Features:
-  - Data Analysis: Comprehensive statistical analysis
-  - Data Visualization: Interactive charts and graphs
-  - Predictive Modeling: Future trend forecasting
-  - ETL Processes: Data extraction and transformation
-```
-
-### 🖼️ **Computer Vision Projects** (2021 - Present)
+### 🖼️ **Computer Vision & Image Processing** (2021 - Present)
 ```yaml
 Technology: OpenCV, TensorFlow, PyTorch, Computer Vision
 Features:
-  - Image Processing: Advanced image manipulation
-  - Object Detection: Real-time object recognition
-  - Face Recognition: Biometric identification systems
-  - Video Analysis: Motion detection and tracking
+  - Image Processing: Advanced image manipulation and enhancement
+  - Object Detection: Real-time object recognition and tracking
+  - Face Recognition: Biometric identification and analysis
+  - Video Analysis: Motion detection and pattern recognition
+  - Image Segmentation: Precise object boundary detection
+Impact: Developing intelligent visual systems for various applications
+```
+
+### 📊 **Data Analysis & Visualization** (2020 - Present)
+```yaml
+Technology: Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly
+Features:
+  - Statistical Analysis: Comprehensive data insights and trends
+  - Data Visualization: Interactive charts, graphs, and dashboards
+  - Predictive Analytics: Future trend forecasting and modeling
+  - ETL Processes: Data extraction, transformation, and loading
+  - Business Intelligence: Actionable insights for decision making
+```
+
+### 🤖 **LLM Development & NLP** (2021 - Present)
+```yaml
+Technology: HuggingFace, Transformers, PyTorch, TensorFlow
+Features:
+  - Large Language Models: Custom model development and fine-tuning
+  - Natural Language Processing: Text analysis and understanding
+  - Model Optimization: Performance enhancement and efficiency
+  - API Integration: Seamless deployment and integration
+  - Multilingual Support: Cross-language model capabilities
 ```
 
 ---
@@ -138,14 +143,14 @@ Features:
 ## 🛠️ Technical Excellence
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,flask,aws,azure,docker&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pytorch,huggingface,pandas,matplotlib,flask,aws&theme=dark" alt="Tech Stack Icons" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-Expert-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML">
-  <img src="https://img.shields.io/badge/Deep_Learning-Advanced-4CAF50?style=for-the-badge&logo=pytorch&logoColor=white" alt="DL">
-  <img src="https://img.shields.io/badge/Computer_Vision-Specialist-2196F3?style=for-the-badge&logo=opencv&logoColor=white" alt="CV">
-  <img src="https://img.shields.io/badge/Data_Science-Professional-9C27B0?style=for-the-badge&logo=pandas&logoColor=white" alt="DS">
+  <img src="https://img.shields.io/badge/Computer_Vision-Expert-FF6B6B?style=for-the-badge&logo=opencv&logoColor=white" alt="CV">
+  <img src="https://img.shields.io/badge/Data_Analysis-Advanced-4CAF50?style=for-the-badge&logo=pandas&logoColor=white" alt="DA">
+  <img src="https://img.shields.io/badge/LLM_Development-Specialist-2196F3?style=for-the-badge&logo=huggingface&logoColor=white" alt="LLM">
+  <img src="https://img.shields.io/badge/Machine_Learning-Professional-9C27B0?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML">
 </div>
 
 ### 💻 **Core Technologies**
@@ -165,16 +170,16 @@ Features:
         <br>PyTorch
       </td>
       <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit" />
-        <br>Scikit-Learn
+        <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="48" height="48" alt="HuggingFace" />
+        <br>HuggingFace
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
-        <br>C#
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+        <br>Pandas
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Node.js" />
-        <br>Node.js
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV" />
+        <br>OpenCV
       </td>
     </tr>
   </table>
@@ -254,7 +259,7 @@ Features:
   
   <p>
     <strong>© 2025 Eren Ata</strong><br>
-    <em>🚀 AI & Machine Learning Engineer • 🤖 Transforming Ideas into Intelligent Solutions</em><br>
-    <em>📊 Data Scientist • 🌍 Building the Future of AI</em>
+    <em>🖼️ Computer Vision Specialist • 📊 Data Analyst • 🤖 LLM Developer</em><br>
+    <em>🔍 Pattern Recognition Expert • 🌍 Building Intelligent Visual Systems</em>
   </p>
 </div> 
