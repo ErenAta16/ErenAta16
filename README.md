@@ -26,8 +26,14 @@
 ## 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErenAta16&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenAta16&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=8" alt="Top Languages Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ErenAta16&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenAta16&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=8" alt="Top Languages Stats" width="48%"/>
+</div>
+
+## 🐍 GitHub Commit Yılanı
+
+<div align="center">
+  <img src="https://github.com/ErenAta16/ErenAta16/blob/output/github-contribution-grid-snake.gif" alt="GitHub Contribution Snake" width="100%"/>
 </div>
 
 ---
@@ -116,7 +122,7 @@
 ## 👀 Profil Ziyaretçileri
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ErenAta16&icon=1&color=9" alt="Profile Visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=ErenAta16&style=for-the-badge&color=9" alt="Profile Visitors"/>
 </div>
 
 ---
