@@ -26,8 +26,16 @@
 ## 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErenAta16&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenAta16&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=8" alt="Top Languages Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ErenAta16&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github&card_width=450" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenAta16&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=8&card_width=450" alt="Top Languages Stats" width="48%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErenAta16&theme=gruvbox_light&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&card_width=900" alt="GitHub Streak Stats" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErenAta16&theme=gruvbox_light&hide_border=false" alt="GitHub Profile Summary" width="100%"/>
 </div>
 
 ## 🐍 GitHub Commit Yılanı
@@ -95,8 +103,18 @@
 ## 🏆 GitHub Başarımları
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ErenAta16&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ErenAta16&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </div>
+
+### 🎯 Başarımlar Açıklaması
+- **🏆 All Super Rank**: Tüm kategorilerde üst seviye başarı
+- **⭐ Star**: Repository'lerinizde yıldız toplama
+- **📊 Commits**: GitHub'da aktif commit yapma
+- **📝 Pull Request**: Topluluğa katkı sağlama
+- **🐛 Issues**: Proje geliştirme süreçlerine katılım
+- **📚 Followers**: GitHub topluluğunda tanınma
+- **💎 Long Time User**: GitHub'da uzun süreli kullanıcı
+- **🔥 Streak**: Ardışık günlerde aktif olma
 
 ---
 
