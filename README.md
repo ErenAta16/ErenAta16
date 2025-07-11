@@ -31,17 +31,13 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErenAta16&theme=gruvbox_light&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&card_width=900" alt="GitHub Streak Stats" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErenAta16&theme=gruvbox_light&hide_border=false" alt="GitHub Profile Summary" width="100%"/>
+  <img src="https://streak-stats.demolab.com/?user=ErenAta16&theme=gruvbox_light&hide_border=false" alt="GitHub Streak Stats" width="100%"/>
 </div>
 
 ## 🐍 GitHub Commit Yılanı
 
 <div align="center">
-  <img src="https://github.com/ErenAta16/ErenAta16/blob/output/github-contribution-grid-snake.gif" alt="GitHub Contribution Snake" width="100%"/>
+  <img src="https://github.com/ErenAta16/ErenAta16/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
 </div>
 
 ---
@@ -105,16 +101,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ErenAta16&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </div>
-
-### 🎯 Başarımlar Açıklaması
-- **🏆 All Super Rank**: Tüm kategorilerde üst seviye başarı
-- **⭐ Star**: Repository'lerinizde yıldız toplama
-- **📊 Commits**: GitHub'da aktif commit yapma
-- **📝 Pull Request**: Topluluğa katkı sağlama
-- **🐛 Issues**: Proje geliştirme süreçlerine katılım
-- **📚 Followers**: GitHub topluluğunda tanınma
-- **💎 Long Time User**: GitHub'da uzun süreli kullanıcı
-- **🔥 Streak**: Ardışık günlerde aktif olma
 
 ---
 
