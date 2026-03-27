@@ -141,19 +141,15 @@ class ErenAta:
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErenAta16&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErenAta16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErenAta16&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ErenAta16&theme=tokyonight&utcOffset=3" alt="Productive Time" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErenAta16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ErenAta16&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
@@ -161,7 +157,7 @@ class ErenAta:
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ErenAta16&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=ErenAta16&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </div>
 
 ---
