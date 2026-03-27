@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+👋+I'm+Eren+Ata;Computer+Vision+%26+Data+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+👋+I'm+Eren+Ata;Computer+Vision+%26+LLM+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -8,8 +8,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/🖼️_Computer_Vision-Expert-FFD700?style=for-the-badge" alt="Computer Vision">
-  <img src="https://img.shields.io/badge/📊_Data_Analyst-Specialist-00C853?style=for-the-badge" alt="Data Analyst">
   <img src="https://img.shields.io/badge/🤖_LLM_Developer-Advanced-2196F3?style=for-the-badge" alt="LLM Developer">
+  <img src="https://img.shields.io/badge/📊_Data_Analyst-Specialist-00C853?style=for-the-badge" alt="Data Analyst">
   <img src="https://img.shields.io/badge/📍_Location-Turkey-E91E63?style=for-the-badge" alt="Location">
 </div>
 
@@ -18,76 +18,83 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/eren-ata-3287991a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:erena6466@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://kaggle.com/erenata"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+  <a href="https://huggingface.co/erenata16"><img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge" alt="HuggingFace"></a>
 </div>
 
 ---
 
 ## 🎯 About Me
 
-<img align="right" alt="AI Brain Animation" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="right" alt="AI Brain Animation" width="380" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-### 🚀 **Passionate Computer Vision & Data Analyst**
+I work in the fields of **data analysis, big data, and databases**; I develop projects using **machine learning and artificial intelligence** technologies.
 
-I'm a **Results-driven Data Analyst** with 3+ years of experience, specializing in **Computer Vision, Data Analysis, LLM Development, and Machine Learning**. 
+I have participated in applications such as **image processing**, creating **dynamic maintenance periods**, and **data-driven equipment tracking**.
 
-#### 💡 **Key Expertise: Computer Vision & Data Analysis**
-
-As a **Computer Vision Specialist & Data Analyst**, I focus on developing innovative solutions:
+With experience gained from projects such as **TÜBİTAK**, **EnerjiSA**, and **TEKNOFEST**, I maintain my motivation for producing data-driven solutions and discovering new technologies.
 
 <div align="left">
   
 ```python
-class ComputerVisionAnalyst:
+class ErenAta:
     def __init__(self):
-        self.specialization = "Computer Vision & Data Analysis"
-        self.experience = "3+ years"
-        self.languages = ["Python", "C#", "JavaScript"]
-        self.frameworks = ["OpenCV", "TensorFlow", "PyTorch", "HuggingFace"]
-        self.passion = "Visual Intelligence & Data Insights"
+        self.role = "Computer Vision & LLM Developer"
+        self.education = ["Big Data Analytics", "Computer Programming"]
+        self.languages = ["Python", "C#", "SQL", "R"]
+        self.interests = ["LLM Fine-tuning", "Computer Vision", "MLOps"]
+        self.current_focus = "LayerLens & CypherMind"
     
-    def analyze_visual_data(self):
-        return "Extracting insights from images and data"
-    
-    def develop_llm_models(self):
-        return "Building intelligent language models"
+    def mass_lethal(self):
+        return "Building intelligent AI systems 🚀"
 ```
 
 </div>
 
-#### 🏆 **Core Skills**
-- 🖼️ **Computer Vision** - Image processing and object detection
-- 📊 **Data Analysis** - Statistical analysis and visualization
-- 🤖 **LLM Development** - Large Language Model development
-- 🔍 **Pattern Recognition** - Advanced image and data pattern analysis
-- ⚡ **Real-time Processing** - High-performance visual data processing
-
 ---
 
-## 💼 Current Focus
+## 💼 Experience
 
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
 
-### 🏢 **Computer Vision & Data Analyst**
-*Turkey | 2021 - Present*
+### 🔬 CeDRI - IPB Portugal
+**Computer Vision & LLMOps Intern**
 
-Building intelligent visual and data solutions:
-- 🖼️ **Computer Vision Systems** - Image processing and object detection
-- 📊 **Data Analysis & Visualization** - Statistical analysis and insights
-- 🤖 **LLM Model Development** - Large Language Model training and fine-tuning
-- 🔍 **Pattern Recognition** - Advanced image and data pattern analysis
+- Computer Vision research and development
+- LLMOps pipeline implementation
+- Model optimization and deployment
 
 </td>
-<td width="40%">
+<td width="50%">
 
-### ⚡ **LLM Developer & Researcher**
-*Freelance | 2020 - Present*
+### 🧪 MCBU XRLab
+**Data Analysis & Image Processing Intern**
 
-- Large Language Model development and fine-tuning
-- HuggingFace Transformers implementation
-- Natural Language Processing projects
-- AI model optimization and deployment
+- XRAssist AI Agent development
+- LLM fine-tuning for project recommendations
+- Database with ~200,000 projects
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔍 Cohere Lab
+**Research Community Member**
+
+- Large Language Model research
+- Active community contributor
+
+</td>
+<td width="50%">
+
+### 💼 TNC Group / Sca Social
+**Project Management Intern**
+
+- Project coordination
+- Team collaboration
 
 </td>
 </tr>
@@ -98,43 +105,65 @@ Building intelligent visual and data solutions:
 ## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🖼️_Computer_Vision-Active-FF6B6B?style=for-the-badge" alt="Computer Vision">
-  <img src="https://img.shields.io/badge/📊_Data_Analysis-Expert-4CAF50?style=for-the-badge" alt="Data Analysis">
-  <img src="https://img.shields.io/badge/🤖_LLM_Development-Specialist-2196F3?style=for-the-badge" alt="LLM Development">
+  <img src="https://img.shields.io/badge/🤖_LLM-Active-FF6B6B?style=for-the-badge" alt="LLM">
+  <img src="https://img.shields.io/badge/🖼️_Computer_Vision-Expert-4CAF50?style=for-the-badge" alt="CV">
+  <img src="https://img.shields.io/badge/📊_Data_Science-Specialist-2196F3?style=for-the-badge" alt="DS">
 </div>
 
-### 🖼️ **Computer Vision & Image Processing** (2021 - Present)
+<br>
+
+### 🧠 CypherMind - Cybersecurity LLM
 ```yaml
-Technology: OpenCV, TensorFlow, PyTorch, Computer Vision
-Features:
-  - Image Processing: Advanced image manipulation and enhancement
-  - Object Detection: Real-time object recognition and tracking
-  - Face Recognition: Biometric identification and analysis
-  - Video Analysis: Motion detection and pattern recognition
-  - Image Segmentation: Precise object boundary detection
-Impact: Developing intelligent visual systems for various applications
+Base Model: Llama 3.1 8B
+Focus: Cybersecurity & CTF Solutions
+Status: Live on HuggingFace
+Achievement: Superior performance in CTF challenges
+Team: Data Science & Cybersecurity (Team Lead)
 ```
 
-### 📊 **Data Analysis & Visualization** (2020 - Present)
+### ⚡ LayerLens - Cython Algorithm
 ```yaml
-Technology: Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly
-Features:
-  - Statistical Analysis: Comprehensive data insights and trends
-  - Data Visualization: Interactive charts, graphs, and dashboards
-  - Predictive Analytics: Future trend forecasting and modeling
-  - ETL Processes: Data extraction, transformation, and loading
-  - Business Intelligence: Actionable insights for decision making
+Purpose: Optimal PEFT method selection (LoRA, Adapter, Prefix)
+Performance: 124x speed increase in gradient computations
+Features: VRAM/FLOPs optimization, MLOps integration (Docker, CI/CD)
+Tech: Cython, Memory Views, Linear Algebra Optimization
 ```
 
-### 🤖 **LLM Development & NLP** (2021 - Present)
+### 🏆 Kaggle - Google BigQuery AI Competition
 ```yaml
-Technology: HuggingFace, Transformers, PyTorch, TensorFlow
-Features:
-  - Large Language Models: Custom model development and fine-tuning
-  - Natural Language Processing: Text analysis and understanding
-  - Model Optimization: Performance enhancement and efficiency
-  - API Integration: Seamless deployment and integration
-  - Multilingual Support: Cross-language model capabilities
+Project: AI-powered Retail Intelligence System
+Tech: BigQuery ML, Vector Search, Generative AI
+Features: Customer behavior analysis, Product recommendations, Sales forecasts
+Result: Highest upvotes, Award category placement
+```
+
+### 🛡️ TÜBİTAK 2209-B - EnerjiSA
+```yaml
+Client: EnerjiSA Üretim A.Ş.
+Scope: Dynamic maintenance periods for Solar Power Plants
+Location: Balıkesir & Çanakkale
+Tech: Data Analysis, Machine Learning
+```
+
+### 🔥 European Solidarity Corps (ESC-30)
+```yaml
+Project: Fire Alarm System for civilian reporting
+Role: Algorithm development & Image processing
+Focus: Real-time fire detection and analysis
+```
+
+### 👷 Equipment Detection System
+```yaml
+Purpose: PPE compliance detection for construction workers
+Tech: Computer Vision, AI, Database integration
+Features: Real-time detection, Compliance tracking, Data analysis
+```
+
+### 🚀 TEKNOFEST - Air Defense Systems
+```yaml
+Role: Founding member of KOVAK community
+Focus: National competition participation
+Status: Active development
 ```
 
 ---
@@ -142,46 +171,95 @@ Features:
 ## 🛠️ Technical Excellence
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pytorch,pandas,matplotlib,flask,aws&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,docker,aws,postgres,git&theme=dark" alt="Tech Stack" />
 </div>
+
+<br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Computer_Vision-Expert-FF6B6B?style=for-the-badge&logo=opencv&logoColor=white" alt="CV">
-  <img src="https://img.shields.io/badge/Data_Analysis-Advanced-4CAF50?style=for-the-badge&logo=pandas&logoColor=white" alt="DA">
-  <img src="https://img.shields.io/badge/LLM_Development-Specialist-2196F3?style=for-the-badge&logo=huggingface&logoColor=white" alt="LLM">
-  <img src="https://img.shields.io/badge/Machine_Learning-Professional-9C27B0?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML">
+  <img src="https://img.shields.io/badge/LLM_Fine--tuning-Expert-FF6B6B?style=for-the-badge&logo=huggingface&logoColor=white" alt="LLM">
+  <img src="https://img.shields.io/badge/Computer_Vision-Advanced-4CAF50?style=for-the-badge&logo=opencv&logoColor=white" alt="CV">
+  <img src="https://img.shields.io/badge/MLOps-Professional-2196F3?style=for-the-badge&logo=docker&logoColor=white" alt="MLOps">
+  <img src="https://img.shields.io/badge/Data_Analysis-Specialist-9C27B0?style=for-the-badge&logo=pandas&logoColor=white" alt="DA">
 </div>
 
-### 💻 **Core Technologies**
+### 💻 Core Technologies
+
 <div align="center">
   <table>
     <tr>
       <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" alt="TensorFlow" />
-        <br>TensorFlow
+        <br><strong>Python</strong>
       </td>
       <td align="center" width="96">
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" height="48" alt="PyTorch" />
-        <br>PyTorch
+        <br><strong>PyTorch</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" alt="TensorFlow" />
+        <br><strong>TensorFlow</strong>
       </td>
       <td align="center" width="96">
         <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="48" height="48" alt="HuggingFace" />
-        <br>HuggingFace
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-        <br>Pandas
+        <br><strong>HuggingFace</strong>
       </td>
       <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV" />
-        <br>OpenCV
+        <br><strong>OpenCV</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+        <br><strong>C#</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+        <br><strong>PostgreSQL</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+        <br><strong>Docker</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+        <br><strong>Pandas</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="48" height="48" alt="R" />
+        <br><strong>R</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="48" height="48" alt="AWS" />
+        <br><strong>AWS</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cython.org/logo/cython-logo.svg" width="48" height="48" alt="Cython" />
+        <br><strong>Cython</strong>
       </td>
     </tr>
   </table>
+</div>
+
+### 🎓 Certifications
+<div align="center">
+  <img src="https://img.shields.io/badge/HuggingFace-LLM_Course-FFD21E?style=flat-square&logo=huggingface" alt="HF">
+  <img src="https://img.shields.io/badge/Generative_AI-ACM_Hacettepe-00599C?style=flat-square" alt="GenAI">
+  <img src="https://img.shields.io/badge/Cybersecurity_101-Akbank-FF6B6B?style=flat-square" alt="Cyber">
+  <img src="https://img.shields.io/badge/Unreal_Engine-Gamengine-313131?style=flat-square&logo=unrealengine" alt="UE">
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErenAta16/ErenAta16/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ErenAta16/ErenAta16/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ErenAta16/ErenAta16/output/github-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
@@ -189,64 +267,49 @@ Features:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErenAta16&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenAta16&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErenAta16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenAta16&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
-
----
-
-## 🚀 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErenAta16&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErenAta16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🏆 Achievements & Recognition
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ErenAta16&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=ErenAta16&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </div>
 
 ---
-
-
 
 ## 📫 Let's Connect!
 
 <div align="center">
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Open+to+collaborations+and+innovations!;Let's+build+the+future+of+AI+together!" alt="Typing SVG" />
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Open+to+collaborations+and+innovations!;Let's+build+the+future+of+AI+together!" alt="Typing SVG" />
   
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/📧-erena6466@gmail.com-D14836?style=for-the-badge" alt="Email"><br>
-        <a href="mailto:erena6466@gmail.com">Email Me</a>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/💼-LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn"><br>
-        <a href="https://www.linkedin.com/in/eren-ata-3287991a7/">Connect on LinkedIn</a>
-      </td>
-    </tr>
-  </table>
+  <br><br>
+  
+  <a href="mailto:erena6466@gmail.com"><img src="https://img.shields.io/badge/📧_Email-erena6466@gmail.com-D14836?style=for-the-badge" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/eren-ata-3287991a7/"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://github.com/ErenAta16"><img src="https://img.shields.io/badge/🐙_GitHub-Follow-181717?style=for-the-badge" alt="GitHub"></a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer&text=Let's%20Build%20the%20Future%20of%20AI%20Together!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&text=Let's%20Build%20AI%20Together!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" alt="Footer" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ErenAta16&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile views">
   <img src="https://img.shields.io/github/followers/ErenAta16?label=Followers&style=for-the-badge&color=00C853" alt="Followers">
   
-  <p>
-    <strong>© 2025 Eren Ata</strong><br>
-    <em>🖼️ Computer Vision Specialist • 📊 Data Analyst • 🤖 LLM Developer</em><br>
-    <em>🔍 Pattern Recognition Expert • 🌍 Building Intelligent Visual Systems</em>
-  </p>
-</div> 
+  <br><br>
+  
+  **© 2025 Eren Ata**
+  
+  *🤖 LLM Developer • 🖼️ Computer Vision • 📊 Data Analyst • 🔬 AI Researcher*
+</div>
