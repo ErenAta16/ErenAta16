@@ -102,72 +102,6 @@ class ErenAta:
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🤖_LLM-Active-FF6B6B?style=for-the-badge" alt="LLM">
-  <img src="https://img.shields.io/badge/🖼️_Computer_Vision-Expert-4CAF50?style=for-the-badge" alt="CV">
-  <img src="https://img.shields.io/badge/📊_Data_Science-Specialist-2196F3?style=for-the-badge" alt="DS">
-</div>
-
-<br>
-
-### 🧠 CypherMind - Cybersecurity LLM
-```yaml
-Base Model: Llama 3.1 8B
-Focus: Cybersecurity & CTF Solutions
-Status: Live on HuggingFace
-Achievement: Superior performance in CTF challenges
-Team: Data Science & Cybersecurity (Team Lead)
-```
-
-### ⚡ LayerLens - Cython Algorithm
-```yaml
-Purpose: Optimal PEFT method selection (LoRA, Adapter, Prefix)
-Performance: 124x speed increase in gradient computations
-Features: VRAM/FLOPs optimization, MLOps integration (Docker, CI/CD)
-Tech: Cython, Memory Views, Linear Algebra Optimization
-```
-
-### 🏆 Kaggle - Google BigQuery AI Competition
-```yaml
-Project: AI-powered Retail Intelligence System
-Tech: BigQuery ML, Vector Search, Generative AI
-Features: Customer behavior analysis, Product recommendations, Sales forecasts
-Result: Highest upvotes, Award category placement
-```
-
-### 🛡️ TÜBİTAK 2209-B - EnerjiSA
-```yaml
-Client: EnerjiSA Üretim A.Ş.
-Scope: Dynamic maintenance periods for Solar Power Plants
-Location: Balıkesir & Çanakkale
-Tech: Data Analysis, Machine Learning
-```
-
-### 🔥 European Solidarity Corps (ESC-30)
-```yaml
-Project: Fire Alarm System for civilian reporting
-Role: Algorithm development & Image processing
-Focus: Real-time fire detection and analysis
-```
-
-### 👷 Equipment Detection System
-```yaml
-Purpose: PPE compliance detection for construction workers
-Tech: Computer Vision, AI, Database integration
-Features: Real-time detection, Compliance tracking, Data analysis
-```
-
-### 🚀 TEKNOFEST - Air Defense Systems
-```yaml
-Role: Founding member of KOVAK community
-Focus: National competition participation
-Status: Active development
-```
-
----
-
 ## 🛠️ Technical Excellence
 
 <div align="center">
@@ -235,19 +169,11 @@ Status: Active development
         <br><strong>AWS</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://cython.org/logo/cython-logo.svg" width="48" height="48" alt="Cython" />
-        <br><strong>Cython</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+        <br><strong>Git</strong>
       </td>
     </tr>
   </table>
-</div>
-
-### 🎓 Certifications
-<div align="center">
-  <img src="https://img.shields.io/badge/HuggingFace-LLM_Course-FFD21E?style=flat-square&logo=huggingface" alt="HF">
-  <img src="https://img.shields.io/badge/Generative_AI-ACM_Hacettepe-00599C?style=flat-square" alt="GenAI">
-  <img src="https://img.shields.io/badge/Cybersecurity_101-Akbank-FF6B6B?style=flat-square" alt="Cyber">
-  <img src="https://img.shields.io/badge/Unreal_Engine-Gamengine-313131?style=flat-square&logo=unrealengine" alt="UE">
 </div>
 
 ---
