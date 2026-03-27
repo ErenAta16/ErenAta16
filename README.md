@@ -132,11 +132,7 @@ class ErenAta:
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErenAta16/ErenAta16/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ErenAta16/ErenAta16/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ErenAta16/ErenAta16/output/github-snake-dark.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/ErenAta16/ErenAta16/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -150,14 +146,6 @@ class ErenAta:
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErenAta16&theme=tokyonight" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ErenAta16&theme=tokyonight" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ErenAta16&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </div>
 
 ---
