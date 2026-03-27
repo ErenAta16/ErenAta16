@@ -45,60 +45,11 @@ class ErenAta:
         self.interests = ["LLM Fine-tuning", "Computer Vision", "MLOps"]
         self.current_focus = "LayerLens & CypherMind"
     
-    def mass_lethal(self):
+    def build(self):
         return "Building intelligent AI systems 🚀"
 ```
 
 </div>
-
----
-
-## 💼 Experience
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔬 CeDRI - IPB Portugal
-**Computer Vision & LLMOps Intern**
-
-- Computer Vision research and development
-- LLMOps pipeline implementation
-- Model optimization and deployment
-
-</td>
-<td width="50%">
-
-### 🧪 MCBU XRLab
-**Data Analysis & Image Processing Intern**
-
-- XRAssist AI Agent development
-- LLM fine-tuning for project recommendations
-- Database with ~200,000 projects
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔍 Cohere Lab
-**Research Community Member**
-
-- Large Language Model research
-- Active community contributor
-
-</td>
-<td width="50%">
-
-### 💼 TNC Group / Sca Social
-**Project Management Intern**
-
-- Project coordination
-- Team collaboration
-
-</td>
-</tr>
-</table>
 
 ---
 
