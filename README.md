@@ -24,11 +24,22 @@
 
 ---
 
+## 🏆 GitHub Trophies
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ErenAta16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Eren Ata Trophies" />
+  </a>
+</div>
+
+---
+
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErenAta16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErenAta16&theme=tokyonight" alt="Stats" />
