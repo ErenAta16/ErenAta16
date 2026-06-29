@@ -24,7 +24,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErenAta16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -33,6 +33,12 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErenAta16&theme=tokyonight" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ErenAta16&theme=tokyonight" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErenAta16&theme=tokyonight&bg_color=1a1b27&hide_border=true&color=FF6B6B" alt="Activity Graph" />
 </div>
 
 ---
@@ -61,7 +67,7 @@
   
   <br><br>
   
-  **© 2025 Eren Ata**
+  **© 2026 Eren Ata**
   
   *🤖 LLM Developer • 🖼️ Computer Vision • 📊 Data Analyst • 🔬 AI Researcher*
 </div>
