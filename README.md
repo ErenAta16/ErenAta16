@@ -24,35 +24,6 @@
 
 ---
 
-## 🎯 About Me
-
-<img align="right" alt="AI Brain Animation" width="380" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-
-I work in the fields of **data analysis, big data, and databases**; I develop projects using **machine learning and artificial intelligence** technologies.
-
-I have participated in applications such as **image processing**, creating **dynamic maintenance periods**, and **data-driven equipment tracking**.
-
-With experience gained from projects such as **TÜBİTAK**, **EnerjiSA**, and **TEKNOFEST**, I maintain my motivation for producing data-driven solutions and discovering new technologies.
-
-<div align="left">
-  
-```python
-class ErenAta:
-    def __init__(self):
-        self.role = "Computer Vision & LLM Developer"
-        self.education = ["Big Data Analytics", "Computer Programming"]
-        self.languages = ["Python", "C#", "SQL", "R"]
-        self.interests = ["LLM Fine-tuning", "Computer Vision", "MLOps"]
-        self.current_focus = "LayerLens & CypherMind"
-    
-    def build(self):
-        return "Building intelligent AI systems 🚀"
-```
-
-</div>
-
----
-
 ## 🛠️ Technical Excellence
 
 <div align="center">
